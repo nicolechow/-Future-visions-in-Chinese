@@ -3,7 +3,7 @@
 最终他们从微软研究院的科研项目中汲取灵感和启发，创作了一本长达 239 页的科幻小说集《FutureVisions》。
 [Future Visions英文版](http://news.microsoft.com/futurevisions/?from=singlemessage&isappinstalled=0)
 
-如果想帮忙翻译或者校对，请加QQ群：谢谢！
+如果想帮忙翻译或者校对，请加QQ群：145817834 ，谢谢！
 
 #当前阶段
 #1.0译者记录
