@@ -4,6 +4,7 @@
 [Future Visions英文版](http://news.microsoft.com/futurevisions/?from=singlemessage&isappinstalled=0)
 
 如果想帮忙翻译或者校对，请加QQ群：145817834 ，谢谢！
+目前想10天内完成这个书的翻译，授权问题在联系了，要先给样本先~ 
 
 #当前阶段
 #1.0译者记录 (没有名字的就是还没有认领的)
