@@ -6,7 +6,19 @@
 如果想帮忙翻译或者校对，请加QQ群：145817834 ，谢谢！
 
 #当前阶段
-#1.0译者记录
+#1.0译者记录 (没有名字的就是还没有认领的)
+###第一章 前言
+###第二章 简介
+###第三章 hello,hello by Seanan McGuire
+###第四章 The Machine Starts by Greg Bear
+###第五章 Skin in the Game by Elizabeth Bear
+###第六章 Machine Learning by Nancy Kress
+###第七章 Riding With the Duke by Jack McDevitt
+###第八章 A cop's Eye by Blue Delliquanti& Michele Rosenthal
+###第九章 Looking For Gordo by Robert J.Sawyer
+###第十章 The Tell by David Brin
+###第十一章 Another word for word by Ann Leckie
+
 #贡献力量
 如果想做出贡献的话，你可以：
 
