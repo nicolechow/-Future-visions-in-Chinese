@@ -4,24 +4,40 @@
 [Future Visions英文版](http://news.microsoft.com/futurevisions/?from=singlemessage&isappinstalled=0)
 
 如果想帮忙翻译或者校对，请加QQ群：145817834 ，谢谢！
-目前想10天内完成这个书的翻译，授权问题在联系了，要先给样本先~ 
+目前计划10天内完成这个书的翻译，授权问题在联系了，要先给样本先~ 
 
 #当前阶段
+
+#1.0 交叉校对记录 20151226 （译者名在前，校对在后）校对意见请加【】，不要直接改动初稿。
+
+###第一章 前言 朱煜生
+###第二章 简介 朱煜生
+###第三章 hello,hello by Seanan McGuire  Fangyuan&雪领云杉              Zeppie&蓝澈槿翳
+###第四章 The Machine Starts by Greg Bear  Zeppie&蓝澈槿翳             贺楚彤&彬&姜立伟
+###第五章 Skin in the Game by Elizabeth Bear     猴子&阿秦                   赵融融&Icy
+###第六章 Machine Learning by Nancy Kress     Tin&安静下来                  Chris &小树
+###第七章 Riding With the Duke by Jack McDevitt  赵融融&Icy                   猴子&阿秦
+###第八章 A cop's Eye by Blue Delliquanti& Michele Rosenthal  Chris &小树   Tin&安静下来
+###第九章 Looking For Gordo by Robert J.Sawyer     Krsiten （需支援）
+###第十章 The Tell by David Brin           贺楚彤&彬&姜立伟         梨花酱&水巾巾&Fancy
+###第十一章 Another word for word by Ann Leckie 梨花酱&水巾巾&Fancy    Fangyuan&雪领云杉
+
 #1.0 授权工作人员
+
 主要负责人： Summer， 协助人 陈阳，Crystal.
 
-#1.0译者记录 (没有名字的就是还没有认领的)
-###第一章 前言
-###第二章 简介
-###第三章 hello,hello by Seanan McGuire
-###第四章 The Machine Starts by Greg Bear
-###第五章 Skin in the Game by Elizabeth Bear
-###第六章 Machine Learning by Nancy Kress
-###第七章 Riding With the Duke by Jack McDevitt
-###第八章 A cop's Eye by Blue Delliquanti& Michele Rosenthal
-###第九章 Looking For Gordo by Robert J.Sawyer
-###第十章 The Tell by David Brin
-###第十一章 Another word for word by Ann Leckie
+#1.0译者记录 20151223
+###第一章 前言 朱煜生
+###第二章 简介 朱煜生
+###第三章 hello,hello by Seanan McGuire  Fangyuan&雪领云杉
+###第四章 The Machine Starts by Greg Bear  Zeppie&蓝澈槿翳
+###第五章 Skin in the Game by Elizabeth Bear     猴子&阿秦
+###第六章 Machine Learning by Nancy Kress     Tin&安静下来
+###第七章 Riding With the Duke by Jack McDevitt  赵融融&Icy
+###第八章 A cop's Eye by Blue Delliquanti& Michele Rosenthal  Chris &小树
+###第九章 Looking For Gordo by Robert J.Sawyer     樱&洋洋
+###第十章 The Tell by David Brin           贺楚彤&彬&姜立伟
+###第十一章 Another word for word by Ann Leckie 梨花酱&水巾巾&Fancy
 
 #贡献力量
 如果想做出贡献的话，你可以：
