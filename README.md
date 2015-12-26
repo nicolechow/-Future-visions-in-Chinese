@@ -8,36 +8,38 @@
 
 #当前阶段
 
-#1.0 交叉校对记录 20151226 （译者名在前，校对在后）校对意见请加【】，不要直接改动初稿。
+##1.0 交叉校对记录 20151226 （译者名在前，校对在后）
 
-###第一章 前言 朱煜生
-###第二章 简介 朱煜生
-###第三章 hello,hello by Seanan McGuire  Fangyuan&雪领云杉              Zeppie&蓝澈槿翳
-###第四章 The Machine Starts by Greg Bear  Zeppie&蓝澈槿翳             贺楚彤&彬&姜立伟
-###第五章 Skin in the Game by Elizabeth Bear     猴子&阿秦                   赵融融&Icy
-###第六章 Machine Learning by Nancy Kress     Tin&安静下来                  Chris &小树
-###第七章 Riding With the Duke by Jack McDevitt  赵融融&Icy                   猴子&阿秦
-###第八章 A cop's Eye by Blue Delliquanti& Michele Rosenthal  Chris &小树   Tin&安静下来
-###第九章 Looking For Gordo by Robert J.Sawyer     Krsiten （需支援）
-###第十章 The Tell by David Brin           贺楚彤&彬&姜立伟         梨花酱&水巾巾&Fancy
-###第十一章 Another word for word by Ann Leckie 梨花酱&水巾巾&Fancy    Fangyuan&雪领云杉
+校对意见请加【】，不要直接改动初稿。
 
-#1.0 授权工作人员
+####第一章 前言 朱煜生
+####第二章 简介 朱煜生
+####第三章 hello,hello by Seanan McGuire  Fangyuan&雪领云杉              Zeppie&蓝澈槿翳
+####第四章 The Machine Starts by Greg Bear  Zeppie&蓝澈槿翳             贺楚彤&彬&姜立伟
+####第五章 Skin in the Game by Elizabeth Bear     猴子&阿秦                   赵融融&Icy
+####第六章 Machine Learning by Nancy Kress     Tin&安静下来                  Chris &小树
+####第七章 Riding With the Duke by Jack McDevitt  赵融融&Icy                   猴子&阿秦
+####第八章 A cop's Eye by Blue Delliquanti& Michele Rosenthal  Chris &小树   Tin&安静下来
+####第九章 Looking For Gordo by Robert J.Sawyer     Krsiten （需支援）
+####第十章 The Tell by David Brin           贺楚彤&彬&姜立伟         梨花酱&水巾巾&Fancy
+####第十一章 Another word for word by Ann Leckie 梨花酱&水巾巾&Fancy    Fangyuan&雪领云杉
+
+##1.0 授权工作人员
 
 主要负责人： Summer， 协助人 陈阳，Crystal.
 
-#1.0译者记录 20151223
-###第一章 前言 朱煜生
-###第二章 简介 朱煜生
-###第三章 hello,hello by Seanan McGuire  Fangyuan&雪领云杉
-###第四章 The Machine Starts by Greg Bear  Zeppie&蓝澈槿翳
-###第五章 Skin in the Game by Elizabeth Bear     猴子&阿秦
-###第六章 Machine Learning by Nancy Kress     Tin&安静下来
-###第七章 Riding With the Duke by Jack McDevitt  赵融融&Icy
-###第八章 A cop's Eye by Blue Delliquanti& Michele Rosenthal  Chris &小树
-###第九章 Looking For Gordo by Robert J.Sawyer     樱&洋洋
-###第十章 The Tell by David Brin           贺楚彤&彬&姜立伟
-###第十一章 Another word for word by Ann Leckie 梨花酱&水巾巾&Fancy
+##1.0译者记录 20151223
+####第一章 前言 朱煜生
+####第二章 简介 朱煜生
+####第三章 hello,hello by Seanan McGuire  Fangyuan&雪领云杉
+####第四章 The Machine Starts by Greg Bear  Zeppie&蓝澈槿翳
+####第五章 Skin in the Game by Elizabeth Bear     猴子&阿秦
+####第六章 Machine Learning by Nancy Kress     Tin&安静下来
+####第七章 Riding With the Duke by Jack McDevitt  赵融融&Icy
+####第八章 A cop's Eye by Blue Delliquanti& Michele Rosenthal  Chris &小树
+####第九章 Looking For Gordo by Robert J.Sawyer     樱&洋洋
+####第十章 The Tell by David Brin           贺楚彤&彬&姜立伟
+####第十一章 Another word for word by Ann Leckie 梨花酱&水巾巾&Fancy
 
 #贡献力量
 如果想做出贡献的话，你可以：
@@ -45,9 +47,6 @@
 * 帮忙校对，挑错别字、病句等等
 * 提出修改建议
 * 提出术语翻译建议
-
-整书共11章节：介绍2个章节，主要内容9个章节。总单词数是71552，大概翻译后的中文字数是13万字。
-工作量评估每人2000-5000字左右，4页左右，是需要3天时间。共需要24名译者进行翻译。
 
 #关于术语
 翻译术语的时候请参考这个流程：
