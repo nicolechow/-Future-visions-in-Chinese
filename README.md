@@ -15,13 +15,13 @@
 ####第一章 前言 朱煜生
 ####第二章 简介 朱煜生
 ####第三章 hello,hello by Seanan McGuire  Fangyuan&雪领云杉              Zeppie&蓝澈槿翳
-####第四章 The Machine Starts by Greg Bear  Zeppie&蓝澈槿翳             贺楚彤&彬&姜立伟
-####第五章 Skin in the Game by Elizabeth Bear     猴子&阿秦                   赵融融&Icy
+####第四章 The Machine Starts by Greg Bear  Zeppie&蓝澈槿翳             梨花酱&水巾巾&Fancy
+####第五章 Skin in the Game by Elizabeth Bear     猴子&阿秦                  肥猫殿&Icy
 ####第六章 Machine Learning by Nancy Kress     Tin&安静下来                  Chris &小树
-####第七章 Riding With the Duke by Jack McDevitt  赵融融&Icy                   猴子&阿秦
+####第七章 Riding With the Duke by Jack McDevitt  肥猫颠&Icy                   猴子&阿秦
 ####第八章 A cop's Eye by Blue Delliquanti& Michele Rosenthal  Chris &小树   Tin&安静下来
 ####第九章 Looking For Gordo by Robert J.Sawyer     Krsiten （需支援）
-####第十章 The Tell by David Brin           贺楚彤&彬&姜立伟         梨花酱&水巾巾&Fancy
+####第十章 The Tell by David Brin           贺楚彤&彬&姜立伟         
 ####第十一章 Another word for word by Ann Leckie 梨花酱&水巾巾&Fancy    Fangyuan&雪领云杉
 
 ##1.0 授权工作人员
